@@ -1,0 +1,7 @@
+[package]
+name = "hamming7264"
+version = "0.1.0"
+authors = ["MichaelKuo <MichaelKuo@via.com.tw>"]
+edition = "2018"
+
+[dependencies]
